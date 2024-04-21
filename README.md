@@ -1,6 +1,6 @@
 # termux-opencl
 
-We can enable OpenCL Library in Termux Android application.
+We can install OpenCL Library in Termux Android application.
 
 # Get clinfo
 
